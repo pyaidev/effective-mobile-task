@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Pyaidev",
+        "author": "Nurmuhammad",
+        "year": 2021,
+        "status": "available"
+    },
+    {
+        "id": 2,
+        "title": "Python Programming",
+        "author": "John Doe",
+        "year": 2020,
+        "status": "issued"
+    },
+    {
+        "id": 3,
+        "title": "Effective Java",
+        "author": "Joshua Bloch",
+        "year": 2018,
+        "status": "available"
+    },
+    {
+        "id": 4,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "year": 2008,
+        "status": "available"
+    },
+    {
+        "id": 5,
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "year": 1999,
+        "status": "issued"
+    }
+]
